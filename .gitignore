@@ -1,0 +1,4 @@
+## .gitignore file for freetype2-scaffold
+
+## ignore folder fetched through gclient
+freetype2
